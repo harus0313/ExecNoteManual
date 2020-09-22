@@ -6,6 +6,7 @@ tags:
 
 - [はじめに](introduction.html)
 - [リリースノート](releasenote.html)
+- [お問い合わせ](contact.html)
 
 # クイックリファレンス
 
@@ -14,27 +15,20 @@ tags:
 
 ## ファイルメニュー
 
-- [test](test.html)
-- this unordered list will find H2
+- [新規作成](CreateNewFile.html)
+- [リネーム](RenameFile.html)
+- [削除](DeleteFile.html)
+- [終了](ExitApplication.html)
 
-### H3
+## 設定メニュー
 
-- find nearest header
-- this unordered list will find H3
+- [設定](settings.html)
 
-# H1 is separator
+## 表示メニュー
 
-#### H4
+- [新しいウィンドウで開く](CreateNewWindow.html)
 
-- find nearest header
-- this unordered list will find H4
+## ヘルプ
 
-##### H5
+- [ExecNote.appを開く](OpenExecNoteApp.html)
 
-- find nearest header
-- this unordered list will find H5
-
-###### H6
-
-- find nearest header
-- this unordered list will find H6
